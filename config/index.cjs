@@ -7,10 +7,10 @@
  */
 const USER_CONFIG = {
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxdf247303804a40d3',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '7f51aafb6a08cb3bab335fcc6eac25af',
 
   PROVINCE: '北京',
   CITY: '北京',
@@ -20,7 +20,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '钱多多',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'PDU19287T43KvcwtX7VxD2k24tsaMc0Uo6Ep6XODG',
+      id: '',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
